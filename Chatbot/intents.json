@@ -1,0 +1,132 @@
+{
+  "intents": [
+    {
+      "tag": "Depository Receipts",
+      "patterns": [
+        "What is the framework for issue of Depository Receipts?",
+        "Can you explain the process of issuing Depository Receipts?",
+        "How are Depository Receipts issued?",
+        "Explain the procedure for issuing Depository Receipts",
+        "I want to know about Depository Receipts issuance framework"
+      ],
+      "responses": [
+        "The framework for issuing Depository Receipts involves several steps, including obtaining necessary approvals, appointing depository participants, opening a depository account, depositing underlying securities, and issuing depository receipts.",
+        "Depository Receipts are issued under a regulated framework that ensures compliance with relevant laws and regulations. The process typically involves approval from regulatory authorities, appointment of depository participants, opening of accounts, deposit of securities, and issuance of receipts.",
+        "Issuing Depository Receipts follows a structured framework that involves obtaining regulatory approvals, appointing depository participants, opening accounts, depositing securities, and finally issuing the receipts to investors.",
+        "The issuance of Depository Receipts follows a well-defined framework established by regulatory authorities. This framework includes obtaining necessary approvals, appointing depository participants, opening accounts, depositing securities, and issuing the receipts to investors.",
+        "The framework for issuing Depository Receipts outlines the process and requirements for companies to issue receipts representing ownership of securities listed in foreign markets. It involves obtaining approvals, appointing intermediaries, and complying with regulatory guidelines."
+      ]
+    },
+    {
+      "tag": "Notification 27 April 2020",
+      "patterns": [
+        "Reminder for the meeting at 10 AM on April 27th, 2020",
+        "Notification about the upcoming deadline on April 27th, 2020",
+        "Important announcement for April 27th, 2020",
+        "Message regarding the event scheduled for April 27th, 2020",
+        "Alert for the webinar happening on April 27th, 2020"
+      ],
+      "responses": [
+        "Here's your reminder for the meeting at 10 AM on April 27th, 2020.",
+        "Don't forget about the upcoming deadline on April 27th, 2020.",
+        "Please read the important announcement for April 27th, 2020.",
+        "Just a friendly reminder about the event scheduled for April 27th, 2020.",
+        "You're invited to join the webinar happening on April 27th, 2020."
+      ]
+    },
+    {
+      "tag": "IFSCA_overview",
+      "patterns": ["What is IFSCA?", "Can you explain IFSCA?", "Overview of IFSCA"],
+      "responses": ["The International Financial Services Centres Authority (IFSCA) Act, 2019 is a legislation that aims to establish an authority to develop and regulate the financial services market in International Financial Services Centres (IFSCs) in India."]
+    },
+    {
+      "tag": "IFSCA_Rules",
+      "patterns": [
+        "What are the IFSCA Rules 2020?",
+        "Can you explain the International Financial Services Centres Authority Rules?",
+        "I want to know about the IFSCA (Salary, Allowances, and other Terms and Conditions of Service of Chairperson and Members) Rules."
+      ],
+      "responses": [
+        "The International Financial Services Centres Authority (Salary, Allowances, and other Terms and Conditions of Service of Chairperson and Members) Rules, 2020, govern the salary, allowances, and other terms of service for the chairperson and members of the IFSCA."
+      ]
+    },
+    {
+      "tag": "Insurance Regulatory and Development Authority of India (Regulations of Insurance Business in Special Economic Zone) Rules, 2015",
+      "patterns": [
+        "What are the regulations for insurance business in Special Economic Zone according to IRDAI?",
+        "Can you explain the rules related to insurance business in Special Economic Zone?",
+        "What are the guidelines for insurance companies operating in Special Economic Zone?",
+        "Tell me about the IRDAI regulations for insurance business in SEZ.",
+        "What are the provisions of IRDAI for insurance companies in SEZ?"
+      ],
+      "responses": [
+        "The Insurance Regulatory and Development Authority of India (IRDAI) has established regulations for insurance business in Special Economic Zones (SEZs). These regulations outline the guidelines and provisions that insurance companies must adhere to when operating within SEZs. Some of the key regulations include [insert key regulations here]. It is essential for insurance companies operating in SEZs to comply with these regulations to ensure smooth operations and regulatory compliance."
+      ]
+    },
+    {
+      "tag": "Notification on Commencement of Provisions of IFSCA Act, 2019",
+      "patterns": [
+        "Notification on Commencement of Provisions of IFSCA Act, 2019",
+        "IFSCA Act commencement notification",
+        "Provisions of IFSCA Act 2019 effective date",
+        "IFSCA Act provisions start date"
+      ],
+      "responses": [
+        "The Notification on Commencement of Provisions of IFSCA Act, 2019 has been issued. You can find more details on the official website.",
+        "The provisions of the IFSCA Act, 2019 have come into effect. Please refer to the notification for more information.",
+        "As per the notification, the provisions of the IFSCA Act, 2019 are now in force. Check the official notification for details."
+      ]
+    },
+    {
+      "tag": "Specific Provisions of Insurance Act not to apply in Special Economic Zone",
+      "patterns": [
+        "Are specific provisions of the Insurance Act applicable in Special Economic Zones?",
+        "What are the regulations regarding the Insurance Act in Special Economic Zones?",
+        "Does the Insurance Act apply differently in Special Economic Zones?"
+      ],
+      "responses": [
+        "In Special Economic Zones, specific provisions of the Insurance Act may not apply. The regulations regarding the Insurance Act can vary in these zones. For specific details, it's advisable to consult legal experts or refer to the relevant laws and regulations."
+      ]
+    },
+    {
+      "tag": "query_amendment",
+      "examples": [
+        "What are the amendments to Prevention of Money-laundering Rules, 2005?",
+        "Can you provide information about the amendments to PMLA Rules?",
+        "I want to know about the recent changes in Prevention of Money-laundering Rules.",
+        "Amendment to PMLA Rules, 2005"
+      ],
+      "responses":[
+      "The amendments to Prevention of Money-laundering Rules, 2005 include stricter reporting requirements for financial institutions and expanded scope of covered entities.",
+      "In the recent amendments, additional provisions were added to enhance the effectiveness of anti-money laundering measures.",
+      "You can find detailed information about the amendments in the official notification issued by the regulatory authority."
+      ]
+    },
+    {
+      "tag": "Jurisdictions under Prevention of Money Laundering Act, 2002",
+      "patterns": [
+        "What are the jurisdictions under Prevention of Money Laundering Act, 2002?",
+        "List of jurisdictions under Prevention of Money Laundering Act, 2002",
+        "Which jurisdictions are covered by Prevention of Money Laundering Act, 2002?",
+        "Can you provide information about jurisdictions under Prevention of Money Laundering Act, 2002?"
+      ],
+      "responses": [
+        "The Prevention of Money Laundering Act, 2002 covers the following jurisdictions:",
+        "Under the Prevention of Money Laundering Act, 2002, the jurisdictions include:",
+        "Jurisdictions under Prevention of Money Laundering Act, 2002:",
+        "Here are the jurisdictions covered by the Prevention of Money Laundering Act, 2002:"
+      ]
+    },
+    {
+      "tag": "Exceptions, Modifications and Adaptations",
+      "patterns": [
+        "What are the exceptions for specified IFSC private companies?",
+        "Can you explain the modifications for IFSC private companies?",
+        "How are adaptations applied to IFSC private companies under Companies Act, 2013?"
+      ],
+      "responses": [
+        "Exceptions, modifications, and adaptations to specified IFSC private companies under the Companies Act, 2013 include..."
+      ]
+    }
+  ]
+}
